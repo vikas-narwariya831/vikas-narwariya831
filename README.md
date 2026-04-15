@@ -16,6 +16,8 @@
 
 ### 🙋‍♂️ Vikas Narwariya
 
+📧 Email: [vikassinghlodhi831@gmail.com](mailto:vikassinghlodhi831@gmail.com)  <br>
+
 
 **🔧 Tech Stack**
 
