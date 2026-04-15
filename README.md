@@ -1,82 +1,121 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:43D9AD&height=200&section=header&text=Vikas%20Narwariya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vikas%20Narwariya&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Next.js%20%7C%20MERN%20Stack%20%7C%20India%20🇮🇳&descSize=18&descAlignY=58" width="100%" />
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=👋+Hey+There!+I'm+Vikas+Narwariya;💻+Full+Stack+Developer;🚀+Building+cool+things+with+code;🌱+Always+learning+%26+growing;🤝+Open+to+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+%40+Qualimatrix;⚡+Next.js+%7C+React.js+%7C+Node.js+Dev;🔥+MERN+Stack+%7C+Supabase+%7C+Firebase;💡+2%2B+Years+of+Real+World+Experience;🤝+Open+to+Collaborate+on+Cool+Ideas!" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=vikas-narwariya831&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=vikas-narwariya831&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/vikas-narwariya831?label=Followers&style=flat&color=43D9AD" alt="Followers" />
+<img src="https://img.shields.io/badge/Experience-2.8+Years-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Company-Qualimatrix-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const vikas = {
-  name: "Vikas Narwariya",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  currentlyWorking: "Awesome projects 🔭",
-  currentlyLearning: ["DSA", "System Design", "Cloud"],
-  lookingToCollaborate: "Open Source & Interesting Projects",
-  funFact: "I debug with console.log and I'm not ashamed! 😄",
-  askMeAbout: ["Web Dev", "JavaScript", "React", "Node.js"],
-  reachMe: "vikas-narwariya831@github"
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="dev gif"/>
+
+```ts
+const vikas: Developer = {
+  name:      "Vikas Narwariya",
+  role:      "Software Engineer @ Qualimatrix",
+  location:  "India 🇮🇳",
+  email:     "vikasnarwariya1508@gmail.com",
+
+  experience: "2 Years 8 Months",
+
+  expertise: [
+    "Next.js", "React.js", "Node.js",
+    "MongoDB", "Supabase", "Firebase"
+  ],
+
+  projects: [
+    "🏥 Global Dialysis Center (MERN - Freelance)",
+    "🎬 Movie Streaming App (React)",
+    "✅ To-Do Manager (React)",
+    "💬 WhatsApp Bulk Messenger (Python)"
+  ],
+
+  currentlyLearning: ["System Design", "AWS", "TypeScript"],
+  funFact: "I'm always happy to share knowledge 🤝",
+  motto: "Code. Learn. Build. Repeat. 🔄"
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend
+<div align="center">
+
+### ⚡ Core Stack
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,js,ts&theme=dark" />
 </p>
 
-### 🛠️ Backend
+### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,vite&theme=dark" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,firebase,supabase,mysql&theme=dark" />
 </p>
+
+### 🔧 Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,python&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷️ Project | 💡 Description | 🛠️ Stack |
+|---|---|---|
+| **🏥 Global Dialysis Center** | Full-stack hospital website — patient accounts, dialysis booking, doctor portfolio | `MERN` `Freelance` |
+| **🎬 Movie Streaming App** | Search movies & TV series, trending content, live search | `React.js` `CSS` `API` |
+| **✅ To-Do Manager** | Add & delete daily tasks with clean minimal UI | `React.js` |
+| **💬 WhatsApp Bulk Messenger** | Range-based bulk message automation | `Python` |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-narwariya831&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-narwariya831&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-narwariya831&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vikas-narwariya831&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-narwariya831&layout=compact&theme=radical&hide_border=true&langs_count=8" height="185"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-narwariya831&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" width="49%"/>
+
 </div>
 
 ---
@@ -84,7 +123,7 @@ const vikas = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikas-narwariya831&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikas-narwariya831&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 ---
@@ -92,52 +131,56 @@ const vikas = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-narwariya831&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-narwariya831&bg_color=0d1117&color=e05397&line=e05397&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikas-narwariya831/vikas-narwariya831/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikas-narwariya831/vikas-narwariya831/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/vikas-narwariya831/vikas-narwariya831/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikas-narwariya831/vikas-narwariya831/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikas-narwariya831/vikas-narwariya831/output/github-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/vikas-narwariya831/vikas-narwariya831/output/github-snake.svg"/>
   </picture>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://github.com/vikas-narwariya831">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"/>
+&nbsp;&nbsp; **I love connecting with different people — say hi! 😊**
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-narwariya-019109174)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasnarwariya1508@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas-narwariya831)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💬 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="65"/>
+
+*"I'm always happy to share my knowledge and learn from others."*
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43D9AD,100:6C63FF&height=120&section=footer" width="100%"/>
-</div>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
