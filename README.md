@@ -3,7 +3,7 @@
 <br/><br/>
 <!-- <img src="https://komarev.com/ghpvc/?username=vikas-narwariya831&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp; -->
-<img src="https://img.shields.io/badge/Experience-2.8+Years-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience-3+Years-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
 <!-- <img src="https://img.shields.io/badge/Company-Qualimatrix-blue?style=for-the-badge&logo=microsoft&logoColor=white"/><br/><br/> -->
 </div>
